@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "CardsFakka",
+    "slug": "cardsfakka",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.eslam9999.cardsfakka"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e0326eef-c12d-4077-b99b-9ac4432fcd17"
+      }
+    }
+  }
+}
